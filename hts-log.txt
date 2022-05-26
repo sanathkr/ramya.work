@@ -1,0 +1,18 @@
+HTTrack3.48-21 launched on Thu, 26 May 2022 09:56:05 at www.ramya.work
+(winhttrack www.ramya.work -W -O "/Users/Huckleberry/websites/ramya.work" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:56:18	Error: 	"Not Found" (404) at link www.ramya.work/www.offtherecord.com (from www.ramya.work/)
+09:56:18	Error: 	"Not Found" (404) at link www.ramya.work/smartsheet.com (from www.ramya.work/)
+09:56:18	Error: 	"Not Found" (404) at link www.ramya.work/cirkledin.com (from www.ramya.work/)
+09:56:18	Error: 	"Bad Request" (400) at link www.ramya.work/"https://www.youtube.com/embed/GDVZ394Htxg?rel=0\%22 (from www.ramya.work/speaking)
+09:56:18	Error: 	"Bad Request" (400) at link www.ramya.work/"https://www.youtube.com/embed/9IKT3Ld4lds?rel=0\%22 (from www.ramya.work/speaking)
+09:56:18	Error: 	"Bad Request" (400) at link www.ramya.work/"//www.youtube.com/embed/Tifc63nhD-Y?rel=0&amp;wmode=opaque&amp;enablejsapi=1\%22 (from www.ramya.work/kards)
+09:56:18	Error: 	"Not Found" (404) at link www.ramya.work/"//www.youtube.com/embed/Tifc63nhD-Y?rel=0&wmode=opaque&enablejsapi=1%22 (from www.ramya.work/kards)
+
+HTTrack Website Copier/3.48-21 mirror complete in 13 seconds : 19 links scanned, 11 files written (693385 bytes overall) [438371 bytes received at 33720 bytes/sec], 777553 bytes transferred using HTTP compression in 15 files, ratio 21%
+(7 errors, 0 warnings, 0 messages)
